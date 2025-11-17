@@ -1,0 +1,87 @@
+{
+  "name": "cognizant-signin-tokens",
+  "colors": {
+    "background": "#FFFFFF",
+    "page-bg": "#FFFFFF",
+    "text-primary": "#07163a",
+    "text-secondary": "#264056",
+    "muted": "#97A3AB",
+    "border": "#CDD6DA",
+    "input-border": "#D6DBDF",
+    "placeholder": "#BFC8CC",
+    "card-border": "#C9D0D6",
+    "primary-700": "#05397F",
+    "primary-600": "#0A4DA3",
+    "primary-500": "#0E63D1",
+    "link": "#133F7D",
+    "logo-gradient-start": "#0F5AA3",
+    "logo-gradient-mid": "#24B0C6",
+    "logo-gradient-end": "#0C5B9F"
+  },
+  "typography": {
+    "font-family": "Cognizant Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+    "font-weight-regular": 400,
+    "font-weight-medium": 500,
+    "font-weight-semibold": 600,
+    "h1": {
+      "font-size": "32px",
+      "line-height": 1.25,
+      "font-weight": 600,
+      "color": "text-primary"
+    },
+    "body": {
+      "font-size": "16px",
+      "line-height": 1.5,
+      "font-weight": 400,
+      "color": "text-secondary"
+    },
+    "label": {
+      "font-size": "14px",
+      "line-height": 1.4,
+      "font-weight": 500,
+      "color": "text-secondary"
+    },
+    "placeholder": {
+      "font-size": "14px",
+      "color": "placeholder"
+    }
+  },
+  "spacing": {
+    "space-xxs": "4px",
+    "space-xs": "8px",
+    "space-sm": "12px",
+    "space-md": "16px",
+    "space-lg": "24px",
+    "space-xl": "32px"
+  },
+  "sizing": {
+    "input-height": "44px",
+    "button-height": "44px",
+    "card-max-width": "640px"
+  },
+  "radius": {
+    "radius-sm": "4px",
+    "radius-md": "6px",
+    "radius-lg": "8px"
+  },
+  "shadow": {
+    "card": "0 2px 6px rgba(8,18,32,0.06)"
+  },
+  "borders": {
+    "thin": "1px solid var(--color-border)"
+  },
+  "form": {
+    "input-padding-vertical": "10px",
+    "input-padding-horizontal": "12px",
+    "input-border": "1px solid var(--color-input-border)",
+    "input-border-radius": "4px",
+    "input-placeholder-color": "placeholder"
+  },
+  "button": {
+    "primary-bg": "primary-600",
+    "primary-color": "#FFFFFF",
+    "primary-padding": "10px 18px",
+    "primary-border-radius": "6px",
+    "primary-hover": "#042E66"
+  }
+}
